@@ -19,7 +19,7 @@ Language::getTranslate(Plugin $plugin, Player $player, string $params); // retur
 - Add file Of language format in plugin data /languages/: eng.yml
 - Add prefix of translate example: 
   - eng.yml > my.message: 'Wellcome'
-  - span.yml > my.message: 'Bienvenido'
+  - spa.yml > my.message: 'Bienvenido'
 ```
 
 ### Credits
