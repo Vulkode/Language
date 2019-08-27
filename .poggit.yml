@@ -4,4 +4,5 @@ branches:
 projects:
   Language:
     path: ""
+    logo: icon.png
 ...
